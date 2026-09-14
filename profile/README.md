@@ -31,7 +31,6 @@ almost nothing to run ("auto custo") and be a pleasure to use.**
 | [tabelhafin](https://github.com/TAbelhaDev/tabelhafin) | Finanças pessoais com IA e Open Finance (Nubank + XP), BYOK |
 | [tabelhainvest](https://github.com/TAbelhaDev/tabelhainvest) | Screener de ações e FIIs por fundamentos, com recomendações BYOK-AI |
 | [tabelhavagas](https://github.com/TAbelhaDev/tabelhavagas) | Filtra vagas de programação que valem a pena e notifica as que importam |
-| [tabelhawt](https://github.com/TAbelhaDev/tabelhawt) | Agregador de YouTube com algoritmo de recomendação próprio |
 
 ### TUIs & CLI
 

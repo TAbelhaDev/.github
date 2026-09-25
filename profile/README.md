@@ -69,4 +69,3 @@ almost nothing to run ("auto custo") and be a pleasure to use.**
 ## The person
 
 Built by [**ianptkcs**](https://github.com/ianptkcs) (Ian Patrick). Portfolio:
-[tabelhaport](https://github.com/TAbelhaDev/tabelhaport).

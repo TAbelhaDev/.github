@@ -16,7 +16,6 @@ almost nothing to run ("auto custo") and be a pleasure to use.**
 ## The stack
 
 - **Web apps** — SvelteKit 2 + Svelte 5, Tailwind v4, Cloudflare Workers, shared
-  theme via [`tabelhawebui`](https://github.com/TAbelhaDev/tabelhawebui)
   (Catppuccin + "reading someone's source file").
 - **TUIs** — Go + Bubble Tea, shared theme via [`tabelhatuiui`](https://github.com/TAbelhaDev/tabelhatuiui).
 - **Desktop stack** — niri + DankMaterialShell, spec'd in [`tabelhaos`](https://github.com/TAbelhaDev/tabelhaos).
@@ -57,7 +56,6 @@ almost nothing to run ("auto custo") and be a pleasure to use.**
 
 | Repo | What |
 | ---- | ---- |
-| [tabelhawebui](https://github.com/TAbelhaDev/tabelhawebui) | Tema + chrome compartilhado dos apps web |
 | [tabelhatuiui](https://github.com/TAbelhaDev/tabelhatuiui) | Tema + chrome compartilhado das TUIs Go |
 | [tabelhascaff](https://github.com/TAbelhaDev/tabelhascaff) | Injeta a estrutura open-source (CI, release, templates) em novos repos |
 | [tajobs-packs](https://github.com/TAbelhaDev/tajobs-packs) | Registry de job packs pro tabelhajobs |
